@@ -25,7 +25,7 @@ generation, headless solving, result parsing, unit/convention conversion).
 ```bash
 git clone https://github.com/capCafu/vitom-lidar-imu-offset
 cd vitom-lidar-imu-offset
-./calibrate_offset.sh /path/to/Robin_20260702_144602
+./calibrate_offset.sh /path/to/Robin_2026****_******
 ```
 
 Example output:
